@@ -1,4 +1,4 @@
-My personal website built using [**Academic**](https://github.com/gcushen/hugo-academic).
+My [**personal website**](https://yifei-eva-wang.netlify.app/) built using [**Academic**](https://github.com/gcushen/hugo-academic).
 
 
 Copyright 2017-present [George Cushen](https://georgecushen.com).
